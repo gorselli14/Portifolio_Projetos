@@ -3,7 +3,7 @@ Meu portfolio de projetos
 
 
 <p align="center">
-  <img src="Infra_banner.jpg" >
+  <img src="Infra_banner_GO.jpg" >
 </p>
 
 # Gabriel Orselli
