@@ -20,6 +20,6 @@ Meu portfolio de projetos
 
 
 ## Learning:
-* Notebook Collab: Primeiro_Notebook.ipynb
+* Notebook Colab: https://bit.ly/30yEeug
 ---
 
