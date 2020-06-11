@@ -21,5 +21,6 @@ Meu portfolio de projetos
 
 ## Learning:
 * Notebook Colab: https://bit.ly/30yEeug
+* Bolão Mega 2020: https://bit.ly/3cUoLaf
 ---
 
