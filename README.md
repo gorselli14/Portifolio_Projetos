@@ -20,7 +20,7 @@ Meu portfolio de projetos
 
 
 ## Learning:
-* Notebook Colab: https://bit.ly/30yEeug
-* Bolão Mega 2020: https://bit.ly/3cUoLaf
+* Analise de dados Airbnb Londres: https://bit.ly/30E9KHb
+* Bolão Mega 2020 - Python: https://bit.ly/3cUoLaf
 ---
 
