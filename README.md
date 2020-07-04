@@ -22,5 +22,6 @@ Meu portfolio de projetos
 ## Learning:
 * Analise de dados Airbnb Londres: https://bit.ly/30E9KHb
 * Bolão Mega 2020 - Python: https://bit.ly/3cUoLaf
+* Analise do valor das ações da empresa Tupperware: https://bit.ly/3f0mUCL
 ---
 
